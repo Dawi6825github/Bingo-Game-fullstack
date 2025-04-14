@@ -56,7 +56,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['var(--font-poppins)', 'sans-serif'],
-        display: ['Righteous', 'cursive'],
+        display: ['var(--font-righteous)', 'cursive'],
       },
       animation: {
         'float': 'float 6s ease-in-out infinite',
